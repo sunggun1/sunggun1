@@ -1,16 +1,49 @@
-## Hi there 👋
+## Tech Stack
 
-<!--
-**sunggun1/sunggun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Language  
+  - Java  
+  - PHP  
 
-Here are some ideas to get you started:
+- Backend  
+  - Spring Boot  
+  - Spring Security  
+  - Spring Data JPA  
+  - MyBatis  
+  - Querydsl  
+  - Spring Cloud Gateway  
+  - Apache Kafka  
+  - Netty  
+  - Spring WebFlux  
+  - JUnit  
+  - PHP CodeIgniter  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Database  
+  - MySQL  
+  - PostgreSQL  
+  - MongoDB  
+  - Redis  
+  - ClickHouse  
+
+- DevOps / Cloud  
+  - Docker
+  - Kubernetes  
+  - Jenkins
+  - Harbor
+  - ArgoCD
+  - AWS (EC2, ECS, RDS, S3, CodePipeline)
+  - Vultr
+  - Cloudflare
+
+- Collaboration & Tools  
+  - GitHub, GitLab, Gitea, Bitbucket  
+  - Jira, Confluence, Redmine  
+  - Swagger  
+
+- Security & Auth  
+  - JSON Web Token (JWT)  
+  - LDAP  
+  - SAML (Azure AD SAML 2.0 연동 경험)  
+
+- Etc  
+  - Quartz Scheduler  
+  - Microsoft Teams
